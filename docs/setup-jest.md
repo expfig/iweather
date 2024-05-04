@@ -31,4 +31,8 @@ Tal ....
 
 ## Cobertura de código
 
+  É um relatório que fornece informações sobre a cobertura do código pelos testes. Ele mostra a porcentagem de linhas de código, funções, instruções ou ramificações que foram executadas durante a execução dos testes. O objetivo do coverage report é avaliar o quanto só código está sendo testado pelos testes automatizados.
+
 ## Teste de integração
+
+  Verifica a interação e a comunicação correta entre diferentes componentes, módulos ou sistemas que podem surgir quando os componentes são integrados e testar o comportamento do sistema como um todo.
